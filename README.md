@@ -33,3 +33,6 @@ With these actionable insights and suggestions, Urbantrend can refine its strate
 ## Note: The project file is encrypted with below credentials:
 
  Analyst ID: Abhishek Singh , Password: Password
+
+ ## LinkedIn Post: 
+ Link: https://www.linkedin.com/feed/update/urn:li:activity:7090182588354502656?utm_source=share&utm_medium=member_desktop
